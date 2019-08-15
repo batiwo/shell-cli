@@ -1,2 +1,2 @@
 # shell-cli
-A combination of Sping Shell and CommandLineRunner 
+A combo Spring Shell and Spring CommandLineRunner (ApplicationRunner)
