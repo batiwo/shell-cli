@@ -1,7 +1,7 @@
 # Shell-cli
 A combo Spring Shell and Spring CommandLineRunner (ApplicationRunner)
 
-##Description
+## Description
 This project aims to be a sample to easily start a Spring Shell CLI that can be run both in interactive mode and directly from command line (Base on Spring Application Runner).
 
 ## Installation
